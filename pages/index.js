@@ -1,4 +1,4 @@
 function Home(){
-    return <h1>Amor? Por ai? Sabia que te amo?</h1>
+    return <h1>Fernando Jesus Rocha</h1>
 }
 export default Home;
