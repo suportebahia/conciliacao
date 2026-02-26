@@ -1,0 +1,25 @@
+{
+  "name": "conciliacao",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/suportebahia/conciliacao#readme",
+  "bugs": {
+    "url": "https://github.com/suportebahia/conciliacao/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suportebahia/conciliacao.git"
+  },
+  "license": "MIT",
+  "author": "Fernando Rocha",
+   "type": "module", 
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
